@@ -40,3 +40,4 @@ Now we need to create Autoscaling Group
 - Here you'll new ec2 instance will spinned up. 
 
 
+#dcffe4, $bg-green-light
