@@ -39,6 +39,3 @@ Now we need to create Autoscaling Group
 - Try terminate one instance to check the autoscaling is working or not 
 - Here you'll new ec2 instance will spinned up. 
 
-
-.bg-gray-dark
-#24292e, $bg-gray-dark
