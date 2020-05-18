@@ -7,8 +7,11 @@ First I going to create static auto scaling configuration
 
 
 Quick Steps
+
 1: Login to aws -> Ec2 Dashboard > Autoscaling.
+
 2: First we need to Launch Configurations setup how ec2 need to spin up if during the ec2 downtime
+
 3: Select AMI and add userdat
 
 ```
