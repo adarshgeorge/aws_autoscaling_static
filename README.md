@@ -1,6 +1,6 @@
 
 
-# #Setting Autoscaling in aws account. 
+Setting Autoscaling in aws account. 
 
 
 First I going to create static auto scaling configuration
